@@ -8,7 +8,7 @@
 
   * **CEO** @ [BeneneCraft](https://benenecraft.net) — *Crafting next-gen gaming experiences.*
   * **CEO** @ [GM-HOSTER](https://gm-hoster.top) — *Powering your ideas with top-tier hosting.*
-  * **CEO** @ [Shieldy](https://www.google.com/search?q=https://github.com/shieldytg) — *Keeping Telegram chats clean and safe.*
+  * **CEO** @ [Shieldy](https://github.com/shieldytg) — *Keeping Telegram chats clean and safe.*
 
 ### 🛠 Tech & Skills
 
