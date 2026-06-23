@@ -1,6 +1,6 @@
 # ⚡️ Yo, I'm Oleksandr1811
 
-**Frontend Dev | Vibe Coder** Bringing clean code and high-tech energy from **Ivano-Frankivsk, Ukraine** 🇺🇦
+**Developer** Bringing clean code and high-tech energy from **Ukraine** 🇺🇦
 
 -----
 
