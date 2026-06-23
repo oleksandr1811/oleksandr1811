@@ -12,7 +12,7 @@
 
 ### 🛠 Tech & Skills
 
-  * **Frontend:** Crafting sleek, dark-themed, minimalist UIs.
+  * **Frontend:** HTML CSS JavaScript
   * **Infrastructure:** Proxmox, Network(mikrotik, etc), and linux.
   * **Hardware:** Tinkering with ESP32, ESP8266, and custom RC electronics.
 
