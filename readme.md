@@ -7,14 +7,13 @@
 ### 🚀 Management & Projects
 
   * **CEO** @ [BeneneCraft](https://benenecraft.net) — *Crafting next-gen gaming experiences.*
-  * **CEO** @ [GM-HOSTER](https://gm-hoster.top) — *Powering your ideas with top-tier hosting.*
   * **CEO** @ [Shieldy](https://github.com/shieldytg) — *Keeping Telegram chats clean and safe.*
 
 ### 🛠 Tech & Skills
 
-  * **Frontend:** HTML CSS JavaScript
+  * **Frontend:** HTML CSS JavaScript React.JS
   * **Infrastructure:** Proxmox, Network(mikrotik, etc), and linux.
-  * **Hardware:** Tinkering with ESP32, ESP8266, and custom RC electronics.
+  * **Hardware:** Tinkering with ESP32, arduino, fpv & fixed-wing.
 
 ### 🔌 Connect with me
 
