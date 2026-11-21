@@ -7,7 +7,8 @@
 ### 🚀 Management & Projects
 
   * **CEO** @ [BeneneCraft](https://benenecraft.net) — *Crafting next-gen gaming experiences.*
-  * **CEO** @ [Shieldy](https://github.com/shieldytg) — *Keeping Telegram chats clean and safe.*
+  * **Main maintainer** @ [Shieldy](https://github.com/shieldytg) — *Keeping Telegram chats clean and safe.*
+  * **Main maintainer** @ [Halky Launcher](https://github.com/halkylauncher) — *A modern Minecraft launcher, forked from Freesm (Prism) Launcher, featuring an improved user interface and additional functionality.*
 
 ### 🛠 Tech & Skills
 
